@@ -18,10 +18,7 @@ export const GlobalStyles = createGlobalStyle`
     margin: 0;
     padding: 0;
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+    font-size: 1.5vh;
     transition: all 0.25s linear;
-  }
-
-  #mode-switch {
-    align: center;
   }
 `
